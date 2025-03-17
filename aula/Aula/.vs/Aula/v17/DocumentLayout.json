@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|c:\\users\\jocy goncalves neto\\documents\\ingles\\%temp%\\mbadomaindrivedesign2\\aula\\aula\\aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|solutionrelative:aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|c:\\users\\jocy goncalves neto\\documents\\ingles\\%temp%\\mbadomaindrivedesign2\\aula\\aula\\aula\\domain\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|solutionrelative:aula\\domain\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|c:\\users\\jocy goncalves neto\\documents\\ingles\\%temp%\\mbadomaindrivedesign2\\aula\\aula\\aula\\domain\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|solutionrelative:aula\\domain\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|c:\\users\\jocy goncalves neto\\documents\\ingles\\%temp%\\mbadomaindrivedesign2\\aula\\aula\\aula\\domain\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E795B63C-15FD-4586-ABD8-D67058AA1988}|Aula\\Aula.csproj|solutionrelative:aula\\domain\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueObjects.cs",
+              "DocumentMoniker": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\ValueObjects.cs",
+              "RelativeDocumentMoniker": "Aula\\Domain\\ValueObjects.cs",
+              "ToolTip": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\ValueObjects.cs",
+              "RelativeToolTip": "Aula\\Domain\\ValueObjects.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwvyMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:44:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\Entities.cs",
+              "RelativeDocumentMoniker": "Aula\\Domain\\Entities.cs",
+              "ToolTip": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\Entities.cs",
+              "RelativeToolTip": "Aula\\Domain\\Entities.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:43:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\Services.cs",
+              "RelativeDocumentMoniker": "Aula\\Domain\\Services.cs",
+              "ToolTip": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Domain\\Services.cs",
+              "RelativeToolTip": "Aula\\Domain\\Services.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:44:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Program.cs",
+              "RelativeDocumentMoniker": "Aula\\Program.cs",
+              "ToolTip": "C:\\Users\\Jocy Goncalves Neto\\Documents\\Ingles\\%temp%\\MBADomainDriveDesign2\\aula\\Aula\\Aula\\Program.cs",
+              "RelativeToolTip": "Aula\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:41:44.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
